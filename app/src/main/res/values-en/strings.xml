@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activity Two</string>
+    <string name="adidas">Adidas</string>
+    <string name="borrar">Delete</string>
+    <string name="calcular">Calculator</string>
+    <string name="clasico">Classic</string>
+    <string name="genero">Gender</string>
+    <string name="nike">Nike</string>
+    <string name="pumas">Pumas</string>
+    <string name="resultado">Result</string>
+    <string name="tipo">Type</string>
+    <string name="valo_x_und">Value (x) unit</string>
+    <string name="valor">Value</string>
+    <string name="hombre">Man</string>
+    <string name="marca">Brand</string>
+    <string name="mujer">Woman</string>
+    <string name="di_cant">Enter Quantity</string>
+    <string name="zapatilla">Shoe</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Taller2</string>
+    <string name="taller2">Celulares</string>
+    <string name="marca">Marcas</string>
+    <string name="color">Colores</string>
+    <string name="rams">Capacidad</string>
+    <string name="sistemas">Sistemas</string>
+    <string name="nokia">NOKIA</string>
+    <string name="apple">APPLE</string>
+    <string name="samsung">SAMSUNG</string>
+    <string name="negro">Negro</string>
+    <string name="azul">Azul</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="defecto">Defecto</string>
+    <string name="r1">2gb</string>
+    <string name="r2">4gb</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="guardar">Guardar</string>
+
+
+
+
+    <string-array name="marcas">
+        <item>@string/nokia</item>
+        <item>@string/apple</item>
+        <item>@string/samsung</item>
+    </string-array>
+
+    <string-array name="colores">
+        <item>@string/negro</item>
+        <item>@string/azul</item>
+        <item>@string/amarillo</item>
+    </string-array>
+
+    <string-array name="rams">
+        <item>@string/defecto</item>
+        <item>@string/r1</item>
+        <item>@string/r2</item>
+
+    </string-array>
+
+    <string-array name="sistemas">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+
+    </string-array>
+
+
+</resources>
